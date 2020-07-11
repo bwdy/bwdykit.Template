@@ -9,6 +9,6 @@
     <Import_RootNamespace>Game</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)AssemblyInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AppInfo.cs" />
   </ItemGroup>
 </Project>
