@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Template
+namespace Game
 {
     class Class1
     {

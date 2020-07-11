@@ -3,7 +3,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
     <HasSharedItems>true</HasSharedItems>
-    <SharedGUID>01036b2e-01b7-4d39-bc4b-e069bc2aec99</SharedGUID>
+    <SharedGUID>17ed0a07-34ba-4323-840e-a63fabb097fc</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
     <Import_RootNamespace>Game</Import_RootNamespace>
