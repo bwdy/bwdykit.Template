@@ -6,7 +6,7 @@
     <SharedGUID>01036b2e-01b7-4d39-bc4b-e069bc2aec99</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>Template</Import_RootNamespace>
+    <Import_RootNamespace>Game</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Class1.cs" />
